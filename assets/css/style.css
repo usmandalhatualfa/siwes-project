@@ -1,0 +1,14 @@
+.c-item {
+  height: 80vh;
+}
+.c-img {
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+.card-item {
+  height: 10vh;
+}
+.card-img {
+  height: 100%;
+}
